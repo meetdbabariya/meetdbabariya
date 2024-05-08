@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meetdbabariya
+- 👋 Hi, I’m @MeetBabariya
 - 👀 I’m interested in backend Webdevelopment
 - 🌱 I’m currently learning css
 - 💞️ I’m looking to collaborate on ...
